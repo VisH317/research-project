@@ -1,0 +1,421 @@
+Validation loss computation: : 4it [00:00, 190.65it/s]
+epochs completed/total:   2%|▏         | 1/60 [00:01<01:56,  1.98s/it]
+Total Discriminator Cost: tensor([4.9853], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.0130], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.5322564840316772
+validation loss:-0.5324239134788513
+
+Validation loss computation: : 4it [00:00, 200.25it/s]
+epochs completed/total:   3%|▎         | 2/60 [00:03<01:55,  1.99s/it]
+Total Discriminator Cost: tensor([4.9697], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.0286], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.5431851148605347
+validation loss:-0.543326199054718
+
+Validation loss computation: : 4it [00:00, 187.58it/s]
+epochs completed/total:   5%|▌         | 3/60 [00:05<01:53,  1.99s/it]
+Total Discriminator Cost: tensor([4.9538], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.0440], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.5481564998626709
+validation loss:-0.5483047962188721
+
+Validation loss computation: : 4it [00:00, 197.45it/s]
+epochs completed/total:   7%|▋         | 4/60 [00:07<01:50,  1.97s/it]
+Total Discriminator Cost: tensor([4.9428], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.0550], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.550480842590332
+validation loss:-0.5506892800331116
+
+Validation loss computation: : 4it [00:00, 187.42it/s]
+epochs completed/total:   8%|▊         | 5/60 [00:10<01:52,  2.04s/it]
+Total Discriminator Cost: tensor([4.9208], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.0762], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.5594668388366699
+validation loss:-0.5597009658813477
+
+Validation loss computation: : 4it [00:00, 188.32it/s]
+epochs completed/total:  10%|█         | 6/60 [00:12<01:48,  2.02s/it]
+Total Discriminator Cost: tensor([4.8998], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.0971], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.5673725605010986
+validation loss:-0.5676568746566772
+
+Validation loss computation: : 4it [00:00, 201.20it/s]
+epochs completed/total:  12%|█▏        | 7/60 [00:14<01:46,  2.02s/it]
+Total Discriminator Cost: tensor([4.8777], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.1181], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.5694279670715332
+validation loss:-0.5698323249816895
+
+Validation loss computation: : 4it [00:00, 182.95it/s]
+epochs completed/total:  13%|█▎        | 8/60 [00:16<01:44,  2.01s/it]
+Total Discriminator Cost: tensor([4.8377], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.1575], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.5828940272331238
+validation loss:-0.583341121673584
+
+Validation loss computation: : 4it [00:00, 192.20it/s]
+epochs completed/total:  15%|█▌        | 9/60 [00:18<01:42,  2.00s/it]
+Total Discriminator Cost: tensor([4.8119], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.1823], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.598529577255249
+validation loss:-0.5991299152374268
+
+Validation loss computation: : 4it [00:00, 186.53it/s]
+epochs completed/total:  17%|█▋        | 10/60 [00:20<01:48,  2.17s/it]
+Total Discriminator Cost: tensor([4.7605], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.2326], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.6167694330215454
+validation loss:-0.6175296306610107
+
+Validation loss computation: : 4it [00:00, 187.42it/s]
+epochs completed/total:  18%|█▊        | 11/60 [00:22<01:42,  2.09s/it]
+Total Discriminator Cost: tensor([4.7179], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.2735], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.6358102560043335
+validation loss:-0.6366914510726929
+
+Validation loss computation: : 4it [00:00, 182.52it/s]
+epochs completed/total:  20%|██        | 12/60 [00:24<01:38,  2.06s/it]
+Total Discriminator Cost: tensor([4.6636], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.3269], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.6614252924919128
+validation loss:-0.6621925830841064
+
+Validation loss computation: : 4it [00:00, 187.84it/s]
+epochs completed/total:  22%|██▏       | 13/60 [00:26<01:36,  2.05s/it]
+Total Discriminator Cost: tensor([4.5857], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.4026], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.6827731728553772
+validation loss:-0.6841245889663696
+NOT RGB IMAGE
+NOT RGB IMAGE
+
+Validation loss computation: : 4it [00:00, 183.02it/s]
+epochs completed/total:  23%|██▎       | 14/60 [00:28<01:32,  2.01s/it]
+Total Discriminator Cost: tensor([4.5536], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.4342], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.7124738693237305
+validation loss:-0.7139989137649536
+
+Validation loss computation: : 4it [00:00, 190.23it/s]
+epochs completed/total:  25%|██▌       | 15/60 [00:30<01:29,  1.99s/it]
+Total Discriminator Cost: tensor([4.4693], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.5141], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.7429636716842651
+validation loss:-0.7446966171264648
+
+Validation loss computation: : 4it [00:00, 190.16it/s]
+epochs completed/total:  27%|██▋       | 16/60 [00:32<01:28,  2.01s/it]
+Total Discriminator Cost: tensor([4.3813], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.5974], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.7773944139480591
+validation loss:-0.7791315913200378
+
+Validation loss computation: : 4it [00:00, 194.78it/s]
+epochs completed/total:  28%|██▊       | 17/60 [00:34<01:25,  1.99s/it]
+Total Discriminator Cost: tensor([4.3422], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.6368], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.8110530376434326
+validation loss:-0.8130210041999817
+
+Validation loss computation: : 4it [00:00, 188.98it/s]
+epochs completed/total:  30%|███       | 18/60 [00:36<01:23,  1.98s/it]
+Total Discriminator Cost: tensor([4.2577], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.7137], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.8448103070259094
+validation loss:-0.8471514582633972
+
+Validation loss computation: : 4it [00:00, 195.18it/s]
+epochs completed/total:  32%|███▏      | 19/60 [00:38<01:20,  1.96s/it]
+Total Discriminator Cost: tensor([4.2173], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.7529], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.8689095973968506
+validation loss:-0.8724567890167236
+
+Validation loss computation: : 4it [00:00, 180.93it/s]
+epochs completed/total:  33%|███▎      | 20/60 [00:40<01:18,  1.97s/it]
+Total Discriminator Cost: tensor([4.1603], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.8024], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9024311900138855
+validation loss:-0.9038845300674438
+
+Validation loss computation: : 4it [00:00, 189.71it/s]
+epochs completed/total:  35%|███▌      | 21/60 [00:42<01:18,  2.02s/it]
+Total Discriminator Cost: tensor([4.0894], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.8698], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9239519834518433
+validation loss:-0.9254958629608154
+
+Validation loss computation: : 4it [00:00, 187.82it/s]
+epochs completed/total:  37%|███▋      | 22/60 [00:44<01:15,  1.99s/it]
+Total Discriminator Cost: tensor([4.1032], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.8917], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9388899803161621
+validation loss:-0.9421591758728027
+
+Validation loss computation: : 4it [00:00, 178.74it/s]
+epochs completed/total:  38%|███▊      | 23/60 [00:46<01:13,  1.99s/it]
+Total Discriminator Cost: tensor([4.0660], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9105], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9585754871368408
+validation loss:-0.9597154259681702
+
+Validation loss computation: : 4it [00:00, 193.01it/s]
+epochs completed/total:  40%|████      | 24/60 [00:48<01:11,  1.99s/it]
+Total Discriminator Cost: tensor([4.0038], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9397], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9547935724258423
+validation loss:-0.9584478139877319
+
+Validation loss computation: : 4it [00:00, 132.06it/s]
+epochs completed/total:  42%|████▏     | 25/60 [00:50<01:10,  2.01s/it]
+Total Discriminator Cost: tensor([4.0710], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9282], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.973628044128418
+validation loss:-0.9754196405410767
+
+Validation loss computation: : 4it [00:00, 185.92it/s]
+epochs completed/total:  43%|████▎     | 26/60 [00:52<01:09,  2.04s/it]
+Total Discriminator Cost: tensor([3.9771], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9617], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9809508919715881
+validation loss:-0.9820832014083862
+
+Validation loss computation: : 4it [00:00, 184.24it/s]
+epochs completed/total:  45%|████▌     | 27/60 [00:54<01:08,  2.07s/it]
+Total Discriminator Cost: tensor([3.9687], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9734], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9711158275604248
+validation loss:-0.9748387932777405
+
+Validation loss computation: : 4it [00:00, 188.22it/s]
+epochs completed/total:  47%|████▋     | 28/60 [00:56<01:05,  2.03s/it]
+Total Discriminator Cost: tensor([4.0205], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9766], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.984976053237915
+validation loss:-0.9868969917297363
+
+Validation loss computation: : 4it [00:00, 181.05it/s]
+epochs completed/total:  48%|████▊     | 29/60 [00:58<01:02,  2.02s/it]
+Total Discriminator Cost: tensor([4.0059], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9882], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9921667575836182
+validation loss:-0.9924123287200928
+
+Validation loss computation: : 4it [00:00, 181.62it/s]
+epochs completed/total:  50%|█████     | 30/60 [01:00<00:59,  2.00s/it]
+Total Discriminator Cost: tensor([3.9713], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9521], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9940893650054932
+validation loss:-0.9941768646240234
+
+Validation loss computation: : 4it [00:00, 179.45it/s]
+epochs completed/total:  52%|█████▏    | 31/60 [01:02<00:57,  1.98s/it]
+Total Discriminator Cost: tensor([4.0175], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9812], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9956362843513489
+validation loss:-0.9957383871078491
+
+Validation loss computation: : 4it [00:00, 186.30it/s]
+epochs completed/total:  53%|█████▎    | 32/60 [01:04<00:56,  2.03s/it]
+Total Discriminator Cost: tensor([3.9725], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9896], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9966785907745361
+validation loss:-0.9967384934425354
+
+Validation loss computation: : 4it [00:00, 191.70it/s]
+epochs completed/total:  55%|█████▌    | 33/60 [01:06<00:54,  2.02s/it]
+Total Discriminator Cost: tensor([3.9529], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9739], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9974537491798401
+validation loss:-0.9974861741065979
+
+Validation loss computation: : 4it [00:00, 189.79it/s]
+epochs completed/total:  57%|█████▋    | 34/60 [01:08<00:51,  1.99s/it]
+Total Discriminator Cost: tensor([4.0085], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9741], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9977680444717407
+validation loss:-0.9978165626525879
+
+Validation loss computation: : 4it [00:00, 181.27it/s]
+epochs completed/total:  58%|█████▊    | 35/60 [01:10<00:49,  1.99s/it]
+Total Discriminator Cost: tensor([4.0181], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9819], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9976193904876709
+validation loss:-0.9976691603660583
+
+Validation loss computation: : 4it [00:00, 182.87it/s]
+epochs completed/total:  60%|██████    | 36/60 [01:12<00:47,  2.00s/it]
+Total Discriminator Cost: tensor([4.0030], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9962], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.996768057346344
+validation loss:-0.9969752430915833
+
+Validation loss computation: : 4it [00:00, 177.59it/s]
+epochs completed/total:  62%|██████▏   | 37/60 [01:14<00:45,  1.99s/it]
+Total Discriminator Cost: tensor([4.0032], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9967], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9973248243331909
+validation loss:-0.9975594878196716
+
+Validation loss computation: : 4it [00:00, 192.75it/s]
+epochs completed/total:  63%|██████▎   | 38/60 [01:16<00:44,  2.00s/it]
+Total Discriminator Cost: tensor([4.0029], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9971], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9978643655776978
+validation loss:-0.9980235695838928
+
+Validation loss computation: : 4it [00:00, 192.56it/s]
+epochs completed/total:  65%|██████▌   | 39/60 [01:18<00:41,  1.99s/it]
+Total Discriminator Cost: tensor([3.9315], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9974], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9984447360038757
+validation loss:-0.9984957575798035
+
+Validation loss computation: : 4it [00:00, 190.13it/s]
+epochs completed/total:  67%|██████▋   | 40/60 [01:20<00:39,  1.97s/it]
+Total Discriminator Cost: tensor([4.0013], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9981], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9989835023880005
+validation loss:-0.9990005493164062
+
+Validation loss computation: : 4it [00:00, 195.31it/s]
+epochs completed/total:  68%|██████▊   | 41/60 [01:22<00:39,  2.06s/it]
+Total Discriminator Cost: tensor([4.0102], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9776], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9992514252662659
+validation loss:-0.999253511428833
+
+Validation loss computation: : 4it [00:00, 165.41it/s]
+epochs completed/total:  70%|███████   | 42/60 [01:24<00:36,  2.04s/it]
+Total Discriminator Cost: tensor([3.9475], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9413], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9992876052856445
+validation loss:-0.9992978572845459
+
+Validation loss computation: : 4it [00:00, 192.17it/s]
+epochs completed/total:  72%|███████▏  | 43/60 [01:26<00:35,  2.07s/it]
+Total Discriminator Cost: tensor([4.0115], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9884], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9992703199386597
+validation loss:-0.999282956123352
+
+Validation loss computation: : 4it [00:00, 183.71it/s]
+epochs completed/total:  73%|███████▎  | 44/60 [01:28<00:32,  2.04s/it]
+Total Discriminator Cost: tensor([4.0046], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9950], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9993300437927246
+validation loss:-0.9993482232093811
+
+Validation loss computation: : 4it [00:00, 183.87it/s]
+epochs completed/total:  75%|███████▌  | 45/60 [01:30<00:30,  2.02s/it]
+Total Discriminator Cost: tensor([4.0075], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9874], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9993268847465515
+validation loss:-0.9993431568145752
+
+Validation loss computation: : 4it [00:00, 192.23it/s]
+epochs completed/total:  77%|███████▋  | 46/60 [01:32<00:28,  2.01s/it]
+Total Discriminator Cost: tensor([3.9240], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9887], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9993127584457397
+validation loss:-0.999299168586731
+
+Validation loss computation: : 4it [00:00, 198.14it/s]
+epochs completed/total:  78%|███████▊  | 47/60 [01:34<00:25,  2.00s/it]
+Total Discriminator Cost: tensor([3.9351], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9888], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9992353916168213
+validation loss:-0.9992535710334778
+
+Validation loss computation: : 4it [00:00, 138.93it/s]
+epochs completed/total:  80%|████████  | 48/60 [01:36<00:24,  2.03s/it]
+Total Discriminator Cost: tensor([3.9983], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9987], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9990646839141846
+validation loss:-0.9990590214729309
+
+Validation loss computation: : 4it [00:00, 158.36it/s]
+epochs completed/total:  82%|████████▏ | 49/60 [01:38<00:22,  2.03s/it]
+Total Discriminator Cost: tensor([4.0006], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9987], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9987942576408386
+validation loss:-0.9988386631011963
+
+Validation loss computation: : 4it [00:00, 192.08it/s]
+epochs completed/total:  83%|████████▎ | 50/60 [01:40<00:19,  2.00s/it]
+Total Discriminator Cost: tensor([3.8931], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9985], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9985779523849487
+validation loss:-0.9986476898193359
+
+Validation loss computation: : 4it [00:00, 180.66it/s]
+epochs completed/total:  85%|████████▌ | 51/60 [01:42<00:17,  1.98s/it]
+Total Discriminator Cost: tensor([4.0013], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9985], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9986231923103333
+validation loss:-0.9986752271652222
+
+Validation loss computation: : 4it [00:00, 185.68it/s]
+epochs completed/total:  87%|████████▋ | 52/60 [01:44<00:15,  1.99s/it]
+Total Discriminator Cost: tensor([4.0012], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9986], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9987238049507141
+validation loss:-0.9988527297973633
+
+Validation loss computation: : 4it [00:00, 189.55it/s]
+epochs completed/total:  88%|████████▊ | 53/60 [01:46<00:13,  1.99s/it]
+Total Discriminator Cost: tensor([3.9527], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9987], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9983445405960083
+validation loss:-0.9985268712043762
+
+Validation loss computation: : 4it [00:00, 188.47it/s]
+epochs completed/total:  90%|█████████ | 54/60 [01:48<00:12,  2.04s/it]
+Total Discriminator Cost: tensor([4.0006], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9977], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9965552091598511
+validation loss:-0.997146487236023
+
+Validation loss computation: : 4it [00:00, 184.13it/s]
+epochs completed/total:  92%|█████████▏| 55/60 [01:50<00:10,  2.02s/it]
+Total Discriminator Cost: tensor([3.9258], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9961], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9978453516960144
+validation loss:-0.9978618621826172
+
+Validation loss computation: : 4it [00:00, 190.23it/s]
+epochs completed/total:  93%|█████████▎| 56/60 [01:52<00:08,  2.01s/it]
+Total Discriminator Cost: tensor([3.9823], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9989], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9991633892059326
+validation loss:-0.9991885423660278
+
+Validation loss computation: : 4it [00:00, 191.64it/s]
+epochs completed/total:  95%|█████████▌| 57/60 [01:54<00:06,  2.07s/it]
+Total Discriminator Cost: tensor([4.0011], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9988], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.99933260679245
+validation loss:-0.999358057975769
+
+Validation loss computation: : 4it [00:00, 191.58it/s]
+epochs completed/total:  97%|█████████▋| 58/60 [01:56<00:04,  2.03s/it]
+Total Discriminator Cost: tensor([4.0010], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9989], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9994140267372131
+validation loss:-0.9994302988052368
+
+Validation loss computation: : 4it [00:00, 164.46it/s]
+epochs completed/total:  98%|█████████▊| 59/60 [01:59<00:02,  2.08s/it]
+Total Discriminator Cost: tensor([3.9956], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9985], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9994789361953735
+validation loss:-0.9995064735412598
+
+Validation loss computation: : 4it [00:00, 194.66it/s]
+epochs completed/total: 100%|██████████| 60/60 [02:01<00:00,  2.02s/it]
+Total Discriminator Cost: tensor([3.9429], device='cuda:0', grad_fn=<AddBackward0>)
+Total Wasserstein Distance: tensor([-0.9979], device='cuda:0', grad_fn=<SubBackward0>)
+Generator loss: -0.9994600415229797
+validation loss:-0.9994555711746216

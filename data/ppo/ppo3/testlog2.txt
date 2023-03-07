@@ -1,0 +1,438 @@
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/stable_baselines3/common/evaluation.py:67: UserWarning: Evaluation environment is not wrapped with a ``Monitor`` wrapper. This may result in reporting modified episode lengths and rewards, if other wrappers happen to modify these. Consider wrapping environment first with ``Monitor`` wrapper.
+  warnings.warn(
+
+1
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveBack
+error:  
+step:  1
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  2
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  3
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  4
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  5
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  6
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  7
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  8
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  9
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  10
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  11
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  12
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  13
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  14
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  15
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  16
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  17
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  18
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  19
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  20
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  21
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  22
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  23
+action:  MoveBack
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+step:  24
+action:  MoveBack
+Finished! End reward:  0
+
+
+error:  Wall is blocking Agent 0 from moving by (0.0000, 0.0000, 0.5000).
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveBack
+error:  
+step:  1
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  2
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  3
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  4
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  5
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  6
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  7
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  8
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  9
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  10
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  11
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  12
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  13
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  14
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  15
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  16
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  17
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  18
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  19
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  20
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  21
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  22
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  23
+action:  MoveBack
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  24
+action:  MoveBack
+Finished! End reward:  11.998250456679134
+
+
+error:  Baseboard.004 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveBack
+error:  
+step:  1
+action:  MoveBack
+error:  
+step:  2
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  3
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  4
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  5
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  6
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  7
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  8
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  9
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  10
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  11
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  12
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  13
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  14
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  15
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  16
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  17
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  18
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  19
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  20
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  21
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  22
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  23
+action:  MoveBack
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  24
+action:  MoveBack
+Finished! End reward:  24.067178429197632
+
+
+error:  GarbageCan_6011391a is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveBack
+error:  
+step:  1
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  2
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  3
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  4
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  5
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  6
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  7
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  8
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  9
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  10
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  11
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  12
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  13
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  14
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  15
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  16
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  17
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  18
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  19
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  20
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  21
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  22
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  23
+action:  MoveBack
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+step:  24
+action:  MoveBack
+Finished! End reward:  3.6672502813064938
+
+
+error:  Bathtub_80a1cdfe is blocking Agent 0 from moving by (-0.5000, 0.0000, 0.0000).
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  1
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  2
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  3
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  4
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  5
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  6
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  7
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  8
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  9
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  10
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  11
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  12
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  13
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  14
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  15
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  16
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  17
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  18
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  19
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  20
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  21
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  22
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  23
+action:  MoveBack
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+step:  24
+action:  MoveBack
+Finished! End reward:  0
+
+
+error:  StoveBase2 is blocking Agent 0 from moving by (0.5000, 0.0000, 0.0000).
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+complete
+[(7.94653582572937, 9.174951361119776)]

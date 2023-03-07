@@ -1,0 +1,943 @@
+thor-Linux64-f0825767cd50d69f666c7f282e54abfe58f1e917.zip: [ 100%  37.4 MiB/s]  of 769.MB
+reset
+step:  0
+action:  RotateRight
+step:  1
+action:  MoveRight
+step:  2
+action:  MoveAhead
+step:  3
+action:  MoveAhead
+step:  4
+action:  MoveRight
+step:  5
+action:  RotateRight
+step:  6
+action:  MoveAhead
+step:  7
+action:  RotateRight
+step:  8
+action:  RotateRight
+step:  9
+action:  Done
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  MoveAhead
+step:  1
+action:  MoveAhead
+step:  2
+action:  MoveAhead
+step:  3
+action:  RotateRight
+step:  4
+action:  RotateLeft
+step:  5
+action:  Done
+Finished! End reward:  9.350257886279955
+
+
+reset
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 8        |
+|    ep_rew_mean     | 4.68     |
+| time/              |          |
+|    fps             | 0        |
+|    iterations      | 1        |
+|    time_elapsed    | 135      |
+|    total_timesteps | 16       |
+---------------------------------
+step:  0
+action:  MoveBack
+step:  1
+action:  Done
+Finished! End reward:  5.309339021086473
+
+
+reset
+step:  0
+action:  MoveBack
+step:  1
+action:  Done
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  Done
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  Done
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  MoveBack
+step:  1
+action:  MoveRight
+step:  2
+action:  MoveAhead
+step:  3
+action:  RotateLeft
+step:  4
+action:  RotateLeft
+step:  5
+action:  RotateLeft
+step:  6
+action:  RotateLeft
+step:  7
+action:  Done
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  MoveLeft
+step:  1
+action:  RotateRight
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 4.29        |
+|    ep_rew_mean          | 2.09        |
+| time/                   |             |
+|    fps                  | 0           |
+|    iterations           | 2           |
+|    time_elapsed         | 244         |
+|    total_timesteps      | 32          |
+| train/                  |             |
+|    approx_kl            | 0.024730068 |
+|    clip_fraction        | 0.287       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.94       |
+|    explained_variance   | -0.0289     |
+|    learning_rate        | 0.001       |
+|    loss                 | 1.46        |
+|    n_updates            | 10          |
+|    policy_gradient_loss | -0.0593     |
+|    value_loss           | 8.99        |
+-----------------------------------------
+step:  2
+action:  MoveAhead
+step:  3
+action:  Done
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  RotateLeft
+step:  1
+action:  RotateRight
+step:  2
+action:  MoveAhead
+step:  3
+action:  RotateLeft
+step:  4
+action:  MoveAhead
+step:  5
+action:  MoveRight
+step:  6
+action:  RotateLeft
+step:  7
+action:  Done
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  MoveBack
+step:  1
+action:  Done
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  Done
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  MoveBack
+step:  1
+action:  MoveLeft
+step:  2
+action:  MoveLeft
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 4.09        |
+|    ep_rew_mean          | 1.33        |
+| time/                   |             |
+|    fps                  | 0           |
+|    iterations           | 3           |
+|    time_elapsed         | 373         |
+|    total_timesteps      | 48          |
+| train/                  |             |
+|    approx_kl            | 0.017940767 |
+|    clip_fraction        | 0.175       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.93       |
+|    explained_variance   | -0.245      |
+|    learning_rate        | 0.001       |
+|    loss                 | -0.163      |
+|    n_updates            | 20          |
+|    policy_gradient_loss | -0.00782    |
+|    value_loss           | 1.25        |
+-----------------------------------------
+step:  3
+action:  MoveBack
+step:  4
+action:  MoveBack
+step:  5
+action:  RotateLeft
+step:  6
+action:  Done
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  RotateRight
+step:  1
+action:  MoveAhead
+step:  2
+action:  MoveLeft
+step:  3
+action:  MoveLeft
+step:  4
+action:  Done
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  Done
+Finished! End reward:  6.253406748075804
+
+
+reset
+step:  0
+action:  MoveRight
+step:  1
+action:  RotateRight
+step:  2
+action:  MoveRight
+step:  3
+action:  Done
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  MoveBack
+step:  1
+action:  Done
+Finished! End reward:  0
+
+
+reset
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 4           |
+|    ep_rew_mean          | 1.31        |
+| time/                   |             |
+|    fps                  | 0           |
+|    iterations           | 4           |
+|    time_elapsed         | 487         |
+|    total_timesteps      | 64          |
+| train/                  |             |
+|    approx_kl            | 0.019706048 |
+|    clip_fraction        | 0.1         |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.93       |
+|    explained_variance   | -19.5       |
+|    learning_rate        | 0.001       |
+|    loss                 | -0.168      |
+|    n_updates            | 30          |
+|    policy_gradient_loss | -0.0267     |
+|    value_loss           | 0.986       |
+-----------------------------------------
+step:  0
+action:  MoveAhead
+step:  1
+action:  RotateRight
+step:  2
+action:  Done
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  MoveRight
+step:  1
+action:  MoveRight
+step:  2
+action:  MoveRight
+step:  3
+action:  MoveLeft
+step:  4
+action:  MoveBack
+step:  5
+action:  RotateLeft
+step:  6
+action:  MoveBack
+step:  7
+action:  RotateRight
+step:  8
+action:  RotateLeft
+step:  9
+action:  RotateLeft
+step:  10
+action:  MoveLeft
+step:  11
+action:  MoveLeft
+step:  12
+action:  RotateRight
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 3.94        |
+|    ep_rew_mean          | 1.23        |
+| time/                   |             |
+|    fps                  | 0           |
+|    iterations           | 5           |
+|    time_elapsed         | 528         |
+|    total_timesteps      | 80          |
+| train/                  |             |
+|    approx_kl            | 0.020953104 |
+|    clip_fraction        | 0.212       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.91       |
+|    explained_variance   | -0.000997   |
+|    learning_rate        | 0.001       |
+|    loss                 | 0.948       |
+|    n_updates            | 40          |
+|    policy_gradient_loss | -0.0225     |
+|    value_loss           | 2.29        |
+-----------------------------------------
+step:  13
+action:  MoveRight
+step:  14
+action:  RotateLeft
+step:  15
+action:  RotateRight
+step:  16
+action:  MoveRight
+step:  17
+action:  Done
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  MoveRight
+step:  1
+action:  MoveRight
+step:  2
+action:  MoveRight
+step:  3
+action:  RotateLeft
+step:  4
+action:  MoveRight
+step:  5
+action:  MoveLeft
+step:  6
+action:  MoveRight
+step:  7
+action:  Done
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  RotateLeft
+step:  1
+action:  RotateRight
+step:  2
+action:  MoveLeft
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 4.89        |
+|    ep_rew_mean          | 1.1         |
+| time/                   |             |
+|    fps                  | 0           |
+|    iterations           | 6           |
+|    time_elapsed         | 600         |
+|    total_timesteps      | 96          |
+| train/                  |             |
+|    approx_kl            | 0.031276103 |
+|    clip_fraction        | 0.4         |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.88       |
+|    explained_variance   | -0.0664     |
+|    learning_rate        | 0.001       |
+|    loss                 | -0.25       |
+|    n_updates            | 50          |
+|    policy_gradient_loss | -0.0709     |
+|    value_loss           | 0.0115      |
+-----------------------------------------
+step:  3
+action:  MoveBack
+step:  4
+action:  RotateRight
+step:  5
+action:  RotateLeft
+step:  6
+action:  MoveLeft
+step:  7
+action:  RotateLeft
+step:  8
+action:  RotateRight
+step:  9
+action:  RotateRight
+step:  10
+action:  MoveBack
+step:  11
+action:  MoveRight
+step:  12
+action:  RotateRight
+step:  13
+action:  MoveRight
+step:  14
+action:  MoveLeft
+step:  15
+action:  MoveBack
+step:  16
+action:  RotateLeft
+step:  17
+action:  MoveLeft
+step:  18
+action:  MoveLeft
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 4.89        |
+|    ep_rew_mean          | 1.1         |
+| time/                   |             |
+|    fps                  | 0           |
+|    iterations           | 7           |
+|    time_elapsed         | 619         |
+|    total_timesteps      | 112         |
+| train/                  |             |
+|    approx_kl            | 0.086917356 |
+|    clip_fraction        | 0.381       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.81       |
+|    explained_variance   | -0.0124     |
+|    learning_rate        | 0.001       |
+|    loss                 | -0.222      |
+|    n_updates            | 60          |
+|    policy_gradient_loss | -0.0548     |
+|    value_loss           | 0.0162      |
+-----------------------------------------
+step:  19
+action:  MoveRight
+step:  20
+action:  MoveBack
+step:  21
+action:  Done
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  MoveLeft
+step:  1
+action:  MoveLeft
+step:  2
+action:  RotateLeft
+step:  3
+action:  RotateRight
+step:  4
+action:  MoveAhead
+step:  5
+action:  RotateRight
+step:  6
+action:  RotateLeft
+step:  7
+action:  MoveLeft
+step:  8
+action:  RotateLeft
+step:  9
+action:  MoveLeft
+step:  10
+action:  MoveLeft
+step:  11
+action:  RotateRight
+step:  12
+action:  MoveLeft
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 5.75        |
+|    ep_rew_mean          | 1.05        |
+| time/                   |             |
+|    fps                  | 0           |
+|    iterations           | 8           |
+|    time_elapsed         | 645         |
+|    total_timesteps      | 128         |
+| train/                  |             |
+|    approx_kl            | 0.037652396 |
+|    clip_fraction        | 0.312       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.66       |
+|    explained_variance   | -1.37e-05   |
+|    learning_rate        | 0.001       |
+|    loss                 | -0.191      |
+|    n_updates            | 70          |
+|    policy_gradient_loss | -0.0453     |
+|    value_loss           | 0.000882    |
+-----------------------------------------
+step:  13
+action:  RotateRight
+step:  14
+action:  MoveLeft
+step:  15
+action:  MoveLeft
+step:  16
+action:  MoveLeft
+step:  17
+action:  MoveLeft
+step:  18
+action:  MoveAhead
+step:  19
+action:  RotateRight
+step:  20
+action:  RotateRight
+step:  21
+action:  MoveLeft
+step:  22
+action:  RotateRight
+step:  23
+action:  RotateLeft
+step:  24
+action:  RotateRight
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  MoveAhead
+step:  1
+action:  MoveLeft
+step:  2
+action:  MoveLeft
+step:  3
+action:  MoveLeft
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 6.67        |
+|    ep_rew_mean          | 0.996       |
+| time/                   |             |
+|    fps                  | 0           |
+|    iterations           | 9           |
+|    time_elapsed         | 685         |
+|    total_timesteps      | 144         |
+| train/                  |             |
+|    approx_kl            | 0.017449655 |
+|    clip_fraction        | 0.0437      |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.61       |
+|    explained_variance   | -0.00245    |
+|    learning_rate        | 0.001       |
+|    loss                 | -0.24       |
+|    n_updates            | 80          |
+|    policy_gradient_loss | -0.0471     |
+|    value_loss           | 0.00376     |
+-----------------------------------------
+step:  4
+action:  RotateLeft
+step:  5
+action:  MoveLeft
+step:  6
+action:  MoveLeft
+step:  7
+action:  MoveBack
+step:  8
+action:  RotateLeft
+step:  9
+action:  MoveLeft
+step:  10
+action:  MoveLeft
+step:  11
+action:  MoveLeft
+step:  12
+action:  MoveLeft
+step:  13
+action:  MoveLeft
+step:  14
+action:  MoveLeft
+step:  15
+action:  MoveAhead
+step:  16
+action:  MoveBack
+step:  17
+action:  MoveLeft
+step:  18
+action:  RotateLeft
+step:  19
+action:  MoveLeft
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 6.67        |
+|    ep_rew_mean          | 0.996       |
+| time/                   |             |
+|    fps                  | 0           |
+|    iterations           | 10          |
+|    time_elapsed         | 696         |
+|    total_timesteps      | 160         |
+| train/                  |             |
+|    approx_kl            | 0.040180873 |
+|    clip_fraction        | 0.319       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.4        |
+|    explained_variance   | -0.00816    |
+|    learning_rate        | 0.001       |
+|    loss                 | -0.197      |
+|    n_updates            | 90          |
+|    policy_gradient_loss | -0.0553     |
+|    value_loss           | 0.00278     |
+-----------------------------------------
+step:  20
+action:  RotateLeft
+step:  21
+action:  MoveLeft
+step:  22
+action:  MoveAhead
+step:  23
+action:  MoveLeft
+step:  24
+action:  MoveLeft
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  MoveLeft
+step:  1
+action:  RotateRight
+step:  2
+action:  MoveBack
+step:  3
+action:  RotateRight
+step:  4
+action:  MoveLeft
+step:  5
+action:  MoveLeft
+step:  6
+action:  MoveLeft
+step:  7
+action:  MoveLeft
+step:  8
+action:  MoveLeft
+step:  9
+action:  MoveBack
+step:  10
+action:  Done
+Finished! End reward:  0
+
+
+reset
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 7.65        |
+|    ep_rew_mean          | 0.909       |
+| time/                   |             |
+|    fps                  | 0           |
+|    iterations           | 11          |
+|    time_elapsed         | 743         |
+|    total_timesteps      | 176         |
+| train/                  |             |
+|    approx_kl            | 0.026369262 |
+|    clip_fraction        | 0.0625      |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.32       |
+|    explained_variance   | -0.000308   |
+|    learning_rate        | 0.001       |
+|    loss                 | -0.127      |
+|    n_updates            | 100         |
+|    policy_gradient_loss | -0.00945    |
+|    value_loss           | 0.000209    |
+-----------------------------------------
+step:  0
+action:  MoveAhead
+step:  1
+action:  MoveLeft
+step:  2
+action:  MoveLeft
+step:  3
+action:  RotateRight
+step:  4
+action:  MoveLeft
+step:  5
+action:  Done
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  MoveBack
+step:  1
+action:  MoveLeft
+step:  2
+action:  MoveLeft
+step:  3
+action:  RotateRight
+step:  4
+action:  RotateLeft
+step:  5
+action:  MoveLeft
+step:  6
+action:  RotateRight
+step:  7
+action:  MoveAhead
+step:  8
+action:  RotateLeft
+step:  9
+action:  MoveAhead
+----------------------------------------
+| rollout/                |            |
+|    ep_len_mean          | 7.58       |
+|    ep_rew_mean          | 0.871      |
+| time/                   |            |
+|    fps                  | 0          |
+|    iterations           | 12         |
+|    time_elapsed         | 770        |
+|    total_timesteps      | 192        |
+| train/                  |            |
+|    approx_kl            | 0.02749915 |
+|    clip_fraction        | 0.1        |
+|    clip_range           | 0.2        |
+|    entropy_loss         | -1.48      |
+|    explained_variance   | -0.221     |
+|    learning_rate        | 0.001      |
+|    loss                 | -0.168     |
+|    n_updates            | 110        |
+|    policy_gradient_loss | -0.0206    |
+|    value_loss           | 0.000864   |
+----------------------------------------
+step:  10
+action:  MoveLeft
+step:  11
+action:  MoveAhead
+step:  12
+action:  RotateRight
+step:  13
+action:  MoveLeft
+step:  14
+action:  MoveRight
+step:  15
+action:  MoveRight
+step:  16
+action:  MoveLeft
+step:  17
+action:  MoveLeft
+step:  18
+action:  RotateRight
+step:  19
+action:  RotateRight
+step:  20
+action:  MoveLeft
+step:  21
+action:  MoveLeft
+step:  22
+action:  RotateLeft
+step:  23
+action:  RotateLeft
+step:  24
+action:  Done
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  MoveRight
+----------------------------------------
+| rollout/                |            |
+|    ep_len_mean          | 8.28       |
+|    ep_rew_mean          | 0.837      |
+| time/                   |            |
+|    fps                  | 0          |
+|    iterations           | 13         |
+|    time_elapsed         | 797        |
+|    total_timesteps      | 208        |
+| train/                  |            |
+|    approx_kl            | 0.04786665 |
+|    clip_fraction        | 0.331      |
+|    clip_range           | 0.2        |
+|    entropy_loss         | -1.62      |
+|    explained_variance   | 0.00224    |
+|    learning_rate        | 0.001      |
+|    loss                 | -0.19      |
+|    n_updates            | 120        |
+|    policy_gradient_loss | -0.0405    |
+|    value_loss           | 0.000255   |
+----------------------------------------
+step:  1
+action:  RotateRight
+step:  2
+action:  MoveLeft
+step:  3
+action:  MoveLeft
+step:  4
+action:  MoveAhead
+step:  5
+action:  MoveLeft
+step:  6
+action:  MoveAhead
+step:  7
+action:  MoveAhead
+step:  8
+action:  MoveBack
+step:  9
+action:  RotateLeft
+step:  10
+action:  MoveAhead
+step:  11
+action:  RotateLeft
+step:  12
+action:  MoveLeft
+step:  13
+action:  MoveLeft
+step:  14
+action:  MoveBack
+step:  15
+action:  RotateRight
+step:  16
+action:  MoveRight
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 8.28        |
+|    ep_rew_mean          | 0.837       |
+| time/                   |             |
+|    fps                  | 0           |
+|    iterations           | 14          |
+|    time_elapsed         | 813         |
+|    total_timesteps      | 224         |
+| train/                  |             |
+|    approx_kl            | 0.050528992 |
+|    clip_fraction        | 0.169       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.75       |
+|    explained_variance   | -0.000224   |
+|    learning_rate        | 0.001       |
+|    loss                 | -0.239      |
+|    n_updates            | 130         |
+|    policy_gradient_loss | -0.0538     |
+|    value_loss           | 0.000173    |
+-----------------------------------------
+step:  17
+action:  RotateRight
+step:  18
+action:  MoveBack
+step:  19
+action:  MoveRight
+step:  20
+action:  MoveLeft
+step:  21
+action:  RotateRight
+step:  22
+action:  MoveAhead
+step:  23
+action:  RotateRight
+step:  24
+action:  RotateLeft
+Finished! End reward:  0
+
+
+reset
+step:  0
+action:  MoveBack
+step:  1
+action:  MoveRight
+step:  2
+action:  MoveRight
+step:  3
+action:  RotateRight
+step:  4
+action:  MoveRight
+step:  5
+action:  MoveBack
+step:  6
+action:  MoveLeft
+step:  7
+action:  MoveBack
+----------------------------------------
+| rollout/                |            |
+|    ep_len_mean          | 8.92       |
+|    ep_rew_mean          | 0.804      |
+| time/                   |            |
+|    fps                  | 0          |
+|    iterations           | 15         |
+|    time_elapsed         | 843        |
+|    total_timesteps      | 240        |
+| train/                  |            |
+|    approx_kl            | 0.04564897 |
+|    clip_fraction        | 0.306      |
+|    clip_range           | 0.2        |
+|    entropy_loss         | -1.79      |
+|    explained_variance   | 1.55e-06   |
+|    learning_rate        | 0.001      |
+|    loss                 | -0.204     |
+|    n_updates            | 140        |
+|    policy_gradient_loss | -0.0378    |
+|    value_loss           | 9.86e-06   |
+----------------------------------------
+step:  8
+action:  MoveBack
+step:  9
+action:  MoveRight
+step:  10
+action:  MoveBack
+step:  11
+action:  MoveBack
+step:  12
+action:  MoveBack
+step:  13
+action:  MoveBack
+step:  14
+action:  RotateLeft
+step:  15
+action:  MoveRight
+step:  16
+action:  MoveAhead
+step:  17
+action:  RotateRight
+step:  18
+action:  MoveBack
+step:  19
+action:  MoveAhead
+step:  20
+action:  MoveBack
+step:  21
+action:  MoveRight
+step:  22
+action:  RotateRight
+step:  23
+action:  RotateLeft
+---------------------------------------
+| rollout/                |           |
+|    ep_len_mean          | 8.92      |
+|    ep_rew_mean          | 0.804     |
+| time/                   |           |
+|    fps                  | 0         |
+|    iterations           | 16        |
+|    time_elapsed         | 863       |
+|    total_timesteps      | 256       |
+| train/                  |           |
+|    approx_kl            | 0.0463451 |
+|    clip_fraction        | 0.356     |
+|    clip_range           | 0.2       |
+|    entropy_loss         | -1.73     |
+|    explained_variance   | -0.00459  |
+|    learning_rate        | 0.001     |
+|    loss                 | -0.222    |
+|    n_updates            | 150       |
+|    policy_gradient_loss | -0.0615   |
+|    value_loss           | 7.46e-05  |
+---------------------------------------

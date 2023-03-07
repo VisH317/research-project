@@ -1,0 +1,1266 @@
+thor-Linux64-f0825767cd50d69f666c7f282e54abfe58f1e917.zip: [ 100%  27.1 MiB/s]  of 769.MB
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+Downloading: "https://download.pytorch.org/models/resnet50-0676ba61.pth" to /root/.cache/torch/hub/checkpoints/resnet50-0676ba61.pth
+100%
+97.8M/97.8M [00:00<00:00, 144MB/s]
+reset
+step:  0
+action:  MoveRight
+error:  
+step:  1
+action:  MoveBack
+error:  
+step:  2
+action:  RotateLeft
+error:  
+step:  3
+action:  RotateLeft
+error:  
+step:  4
+action:  MoveLeft
+error:  
+step:  5
+action:  RotateLeft
+error:  
+step:  6
+action:  MoveLeft
+error:  
+step:  7
+action:  RotateRight
+error:  
+step:  8
+action:  MoveLeft
+error:  
+step:  9
+action:  MoveRight
+error:  
+step:  10
+action:  MoveRight
+error:  
+step:  11
+action:  MoveRight
+error:  
+step:  12
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveLeft
+error:  
+step:  1
+action:  RotateRight
+error:  
+step:  2
+action:  MoveLeft
+error:  
+step:  3
+action:  MoveRight
+error:  
+step:  4
+action:  MoveAhead
+error:  
+step:  5
+action:  RotateLeft
+error:  
+step:  6
+action:  RotateRight
+error:  
+step:  7
+action:  MoveRight
+error:  
+step:  8
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveAhead
+error:  
+step:  1
+action:  RotateLeft
+error:  
+step:  2
+action:  MoveRight
+error:  
+step:  3
+action:  MoveAhead
+error:  
+step:  4
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveBack
+error:  
+step:  1
+action:  RotateRight
+error:  
+step:  2
+action:  RotateRight
+error:  
+step:  3
+action:  MoveBack
+error:  
+step:  4
+action:  RotateRight
+error:  
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 9        |
+|    ep_rew_mean     | 0        |
+| time/              |          |
+|    fps             | 0        |
+|    iterations      | 1        |
+|    time_elapsed    | 179      |
+|    total_timesteps | 32       |
+---------------------------------
+step:  5
+action:  MoveAhead
+error:  
+step:  6
+action:  MoveAhead
+error:  StandardCounterHeightWidth is blocking Agent 0 from moving by (0.0004, 0.0000, -0.2500).
+step:  7
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  RotateRight
+error:  
+step:  1
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveAhead
+error:  
+step:  1
+action:  MoveBack
+error:  
+step:  2
+action:  MoveRight
+error:  
+step:  3
+action:  MoveRight
+error:  Dishwasher (1) is blocking Agent 0 from moving by (0.2500, 0.0000, 0.0000).
+step:  4
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveBack
+error:  
+step:  1
+action:  RotateLeft
+error:  
+step:  2
+action:  MoveAhead
+error:  
+step:  3
+action:  RotateRight
+error:  
+step:  4
+action:  MoveBack
+error:  
+step:  5
+action:  RotateRight
+error:  
+step:  6
+action:  RotateRight
+error:  
+step:  7
+action:  MoveRight
+error:  
+step:  8
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveAhead
+error:  
+step:  1
+action:  MoveRight
+error:  
+step:  2
+action:  MoveLeft
+error:  
+step:  3
+action:  MoveRight
+error:  
+step:  4
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveBack
+error:  
+step:  1
+action:  RotateLeft
+error:  
+step:  2
+action:  RotateRight
+error:  
+step:  3
+action:  MoveBack
+error:  
+step:  4
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  RotateLeft
+error:  
+step:  1
+action:  RotateLeft
+error:  
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 6.2         |
+|    ep_rew_mean          | 0           |
+| time/                   |             |
+|    fps                  | 0           |
+|    iterations           | 2           |
+|    time_elapsed         | 377         |
+|    total_timesteps      | 64          |
+| train/                  |             |
+|    approx_kl            | 0.027529005 |
+|    clip_fraction        | 0.409       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.92       |
+|    explained_variance   | -3.03       |
+|    learning_rate        | 0.004       |
+|    loss                 | -0.251      |
+|    n_updates            | 10          |
+|    policy_gradient_loss | -0.0607     |
+|    value_loss           | 2.39        |
+-----------------------------------------
+step:  2
+action:  MoveBack
+error:  
+step:  3
+action:  RotateLeft
+error:  
+step:  4
+action:  MoveBack
+error:  
+step:  5
+action:  RotateLeft
+error:  
+step:  6
+action:  MoveLeft
+error:  
+step:  7
+action:  Done
+Finished! End reward:  13.030049323638018
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  RotateRight
+error:  
+step:  1
+action:  MoveAhead
+error:  
+step:  2
+action:  RotateLeft
+error:  
+step:  3
+action:  MoveAhead
+error:  
+step:  4
+action:  MoveRight
+error:  Toilet_6b97d0b9 is blocking Agent 0 from moving by (0.0000, 0.0000, -0.2500).
+step:  5
+action:  RotateLeft
+error:  
+step:  6
+action:  MoveAhead
+error:  
+step:  7
+action:  MoveAhead
+error:  
+step:  8
+action:  RotateLeft
+error:  
+step:  9
+action:  RotateLeft
+error:  
+step:  10
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  RotateLeft
+error:  
+step:  1
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  RotateLeft
+error:  
+step:  1
+action:  MoveBack
+error:  
+step:  2
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveRight
+error:  
+step:  1
+action:  RotateLeft
+error:  
+step:  2
+action:  MoveRight
+error:  
+step:  3
+action:  RotateLeft
+error:  
+step:  4
+action:  MoveAhead
+error:  
+step:  5
+action:  RotateLeft
+error:  
+step:  6
+action:  RotateRight
+error:  
+step:  7
+action:  RotateLeft
+error:  
+step:  8
+action:  RotateLeft
+error:  
+step:  9
+action:  RotateLeft
+error:  
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 6.14        |
+|    ep_rew_mean          | 0.931       |
+| time/                   |             |
+|    fps                  | 0           |
+|    iterations           | 3           |
+|    time_elapsed         | 504         |
+|    total_timesteps      | 96          |
+| train/                  |             |
+|    approx_kl            | 0.056024276 |
+|    clip_fraction        | 0.597       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.92       |
+|    explained_variance   | -0.201      |
+|    learning_rate        | 0.004       |
+|    loss                 | -0.381      |
+|    n_updates            | 20          |
+|    policy_gradient_loss | -0.0837     |
+|    value_loss           | 0.0381      |
+-----------------------------------------
+step:  10
+action:  MoveAhead
+error:  
+step:  11
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveAhead
+error:  
+step:  1
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  RotateLeft
+error:  
+step:  1
+action:  MoveBack
+error:  
+step:  2
+action:  MoveBack
+error:  
+step:  3
+action:  Done
+Finished! End reward:  2.898187738990856
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  RotateLeft
+error:  
+step:  1
+action:  MoveBack
+error:  
+step:  2
+action:  MoveLeft
+error:  
+step:  3
+action:  MoveLeft
+error:  
+step:  4
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveAhead
+error:  
+step:  1
+action:  MoveRight
+error:  
+step:  2
+action:  RotateLeft
+error:  
+step:  3
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveBack
+error:  
+step:  1
+action:  MoveLeft
+error:  
+step:  2
+action:  RotateLeft
+error:  
+step:  3
+action:  MoveRight
+error:  
+step:  4
+action:  MoveRight
+error:  
+step:  5
+action:  MoveBack
+error:  
+step:  6
+action:  RotateRight
+error:  
+step:  7
+action:  RotateRight
+error:  
+step:  8
+action:  RotateRight
+error:  
+step:  9
+action:  RotateLeft
+error:  
+step:  10
+action:  RotateLeft
+error:  
+step:  11
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  RotateRight
+error:  
+step:  1
+action:  MoveAhead
+error:  
+----------------------------------------
+| rollout/                |            |
+|    ep_len_mean          | 6          |
+|    ep_rew_mean          | 0.758      |
+| time/                   |            |
+|    fps                  | 0          |
+|    iterations           | 4          |
+|    time_elapsed         | 730        |
+|    total_timesteps      | 128        |
+| train/                  |            |
+|    approx_kl            | 0.03614276 |
+|    clip_fraction        | 0.319      |
+|    clip_range           | 0.2        |
+|    entropy_loss         | -1.9       |
+|    explained_variance   | -0.000162  |
+|    learning_rate        | 0.004      |
+|    loss                 | 9.64       |
+|    n_updates            | 30         |
+|    policy_gradient_loss | -0.0307    |
+|    value_loss           | 22.2       |
+----------------------------------------
+step:  2
+action:  RotateLeft
+error:  
+step:  3
+action:  RotateRight
+error:  
+step:  4
+action:  MoveLeft
+error:  
+step:  5
+action:  RotateLeft
+error:  
+step:  6
+action:  MoveLeft
+error:  
+step:  7
+action:  MoveRight
+error:  
+step:  8
+action:  MoveLeft
+error:  
+step:  9
+action:  MoveBack
+error:  
+step:  10
+action:  MoveAhead
+error:  
+step:  11
+action:  MoveRight
+error:  
+step:  12
+action:  Done
+Finished! End reward:  4.354743407792462
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveBack
+error:  
+step:  1
+action:  MoveAhead
+error:  
+step:  2
+action:  RotateRight
+error:  
+step:  3
+action:  MoveLeft
+error:  
+step:  4
+action:  Done
+Finished! End reward:  13.192913834092948
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveLeft
+error:  
+step:  1
+action:  RotateRight
+error:  
+step:  2
+action:  RotateRight
+error:  
+step:  3
+action:  MoveLeft
+error:  
+step:  4
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  RotateLeft
+error:  
+step:  1
+action:  MoveBack
+error:  
+step:  2
+action:  MoveRight
+error:  
+step:  3
+action:  MoveBack
+error:  
+step:  4
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  RotateRight
+error:  
+step:  1
+action:  MoveAhead
+error:  
+step:  2
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  RotateLeft
+error:  
+step:  1
+action:  MoveBack
+error:  
+step:  2
+action:  RotateLeft
+error:  
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 6.04        |
+|    ep_rew_mean          | 1.29        |
+| time/                   |             |
+|    fps                  | 0           |
+|    iterations           | 5           |
+|    time_elapsed         | 881         |
+|    total_timesteps      | 160         |
+| train/                  |             |
+|    approx_kl            | 0.030207474 |
+|    clip_fraction        | 0.266       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.85       |
+|    explained_variance   | -0.00204    |
+|    learning_rate        | 0.004       |
+|    loss                 | 0.355       |
+|    n_updates            | 40          |
+|    policy_gradient_loss | -0.0322     |
+|    value_loss           | 2.21        |
+-----------------------------------------
+step:  3
+action:  MoveAhead
+error:  
+step:  4
+action:  MoveLeft
+error:  
+step:  5
+action:  MoveBack
+error:  
+step:  6
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveAhead
+error:  
+step:  1
+action:  MoveRight
+error:  
+step:  2
+action:  RotateRight
+error:  
+step:  3
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  MoveBack
+error:  
+step:  1
+action:  RotateRight
+error:  
+step:  2
+action:  MoveBack
+error:  
+step:  3
+action:  MoveRight
+error:  
+step:  4
+action:  MoveBack
+error:  
+step:  5
+action:  MoveRight
+error:  
+step:  6
+action:  RotateRight
+error:  
+step:  7
+action:  MoveLeft
+error:  
+step:  8
+action:  MoveRight
+error:  
+step:  9
+action:  RotateLeft
+error:  
+step:  10
+action:  MoveLeft
+error:  
+step:  11
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  RotateLeft
+error:  
+step:  1
+action:  RotateRight
+error:  
+step:  2
+action:  MoveBack
+error:  
+step:  3
+action:  MoveAhead
+error:  
+step:  4
+action:  MoveBack
+error:  
+step:  5
+action:  MoveAhead
+error:  
+step:  6
+action:  MoveBack
+error:  
+step:  7
+action:  MoveBack
+error:  
+step:  8
+action:  MoveAhead
+error:  
+step:  9
+action:  MoveLeft
+error:  
+step:  10
+action:  MoveLeft
+error:  
+step:  11
+action:  MoveRight
+error:  
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 6.21         |
+|    ep_rew_mean          | 1.15         |
+| time/                   |              |
+|    fps                  | 0            |
+|    iterations           | 6            |
+|    time_elapsed         | 987          |
+|    total_timesteps      | 192          |
+| train/                  |              |
+|    approx_kl            | 0.0071756914 |
+|    clip_fraction        | 0.116        |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -1.87        |
+|    explained_variance   | -4.29e-06    |
+|    learning_rate        | 0.004        |
+|    loss                 | 9.16         |
+|    n_updates            | 50           |
+|    policy_gradient_loss | -0.00234     |
+|    value_loss           | 20.3         |
+------------------------------------------
+step:  12
+action:  MoveAhead
+error:  
+step:  13
+action:  MoveBack
+error:  
+step:  14
+action:  MoveRight
+error:  
+step:  15
+action:  MoveLeft
+error:  
+step:  16
+action:  RotateRight
+error:  
+step:  17
+action:  MoveBack
+error:  
+step:  18
+action:  MoveAhead
+error:  
+step:  19
+action:  MoveLeft
+error:  
+step:  20
+action:  RotateLeft
+error:  
+step:  21
+action:  MoveLeft
+error:  
+step:  22
+action:  MoveLeft
+error:  
+step:  23
+action:  MoveLeft
+error:  FP313:StandardWallSize.011 is blocking Agent 0 from moving by (0.0000, 0.0000, 0.2500).
+step:  24
+action:  MoveRight
+error:  
+step:  25
+action:  MoveLeft
+error:  
+step:  26
+action:  RotateRight
+error:  
+step:  27
+action:  RotateLeft
+error:  
+step:  28
+action:  MoveAhead
+error:  
+step:  29
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  RotateLeft
+error:  
+step:  1
+action:  MoveBack
+error:  
+step:  2
+action:  MoveLeft
+error:  
+step:  3
+action:  MoveLeft
+error:  
+step:  4
+action:  MoveAhead
+error:  
+step:  5
+action:  RotateRight
+error:  
+step:  6
+action:  MoveAhead
+error:  
+step:  7
+action:  RotateLeft
+error:  
+step:  8
+action:  MoveBack
+error:  
+step:  9
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  RotateLeft
+error:  
+step:  1
+action:  MoveLeft
+error:  
+step:  2
+action:  MoveBack
+error:  
+step:  3
+action:  RotateLeft
+error:  
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 7.1         |
+|    ep_rew_mean          | 1.08        |
+| time/                   |             |
+|    fps                  | 0           |
+|    iterations           | 7           |
+|    time_elapsed         | 1090        |
+|    total_timesteps      | 224         |
+| train/                  |             |
+|    approx_kl            | 0.012775222 |
+|    clip_fraction        | 0.372       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.85       |
+|    explained_variance   | -0.000126   |
+|    learning_rate        | 0.004       |
+|    loss                 | 0.111       |
+|    n_updates            | 60          |
+|    policy_gradient_loss | -0.0436     |
+|    value_loss           | 1.41        |
+-----------------------------------------
+step:  4
+action:  MoveBack
+error:  
+step:  5
+action:  MoveAhead
+error:  
+step:  6
+action:  MoveBack
+error:  
+step:  7
+action:  RotateLeft
+error:  
+step:  8
+action:  RotateRight
+error:  
+step:  9
+action:  RotateLeft
+error:  
+step:  10
+action:  RotateLeft
+error:  
+step:  11
+action:  MoveBack
+error:  
+step:  12
+action:  MoveAhead
+error:  
+step:  13
+action:  RotateLeft
+error:  
+step:  14
+action:  RotateLeft
+error:  
+step:  15
+action:  MoveRight
+error:  
+step:  16
+action:  MoveRight
+error:  
+step:  17
+action:  MoveBack
+error:  
+step:  18
+action:  Done
+Finished! End reward:  0.4451441228937938
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  RotateLeft
+error:  
+step:  1
+action:  MoveBack
+error:  
+step:  2
+action:  MoveAhead
+error:  
+step:  3
+action:  MoveAhead
+error:  
+step:  4
+action:  MoveLeft
+error:  
+step:  5
+action:  MoveBack
+error:  
+step:  6
+action:  MoveBack
+error:  
+step:  7
+action:  RotateRight
+error:  
+step:  8
+action:  MoveAhead
+error:  
+step:  9
+action:  MoveBack
+error:  
+step:  10
+action:  RotateLeft
+error:  
+step:  11
+action:  MoveAhead
+error:  
+step:  12
+action:  MoveRight
+error:  
+step:  13
+action:  MoveBack
+error:  
+step:  14
+action:  RotateLeft
+error:  
+step:  15
+action:  Done
+Finished! End reward:  0
+
+
+error:  
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+
+WARNING:py.warnings:/usr/local/lib/python3.8/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+reset
+step:  0
+action:  RotateLeft
+error:  
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 7.73        |
+|    ep_rew_mean          | 1.03        |
+| time/                   |             |
+|    fps                  | 0           |
+|    iterations           | 8           |
+|    time_elapsed         | 1171        |
+|    total_timesteps      | 256         |
+| train/                  |             |
+|    approx_kl            | 0.016037773 |
+|    clip_fraction        | 0.266       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.8        |
+|    explained_variance   | 0.00138     |
+|    learning_rate        | 0.004       |
+|    loss                 | -0.2        |
+|    n_updates            | 70          |
+|    policy_gradient_loss | -0.0485     |
+|    value_loss           | 0.333       |
+-----------------------------------------

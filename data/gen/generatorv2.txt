@@ -1,0 +1,139 @@
+Validation loss computation: : 4it [00:00, 187.97it/s]
+epochs completed/total:   5%|▌         | 1/20 [00:02<00:56,  2.98s/it]
+Total Discriminator Cost: 9.816322326660156
+Total Wasserstein Distance: 0.16837285459041595
+Generator loss: -0.03774087131023407
+validation loss:-0.040774889290332794
+
+Validation loss computation: : 4it [00:00, 182.95it/s]
+epochs completed/total:  10%|█         | 2/20 [00:05<00:51,  2.87s/it]
+Total Discriminator Cost: 9.526859283447266
+Total Wasserstein Distance: 0.4519224166870117
+Generator loss: -0.0359274186193943
+validation loss:-0.0393499881029129
+
+Validation loss computation: : 4it [00:00, 191.59it/s]
+epochs completed/total:  15%|█▌        | 3/20 [00:08<00:47,  2.82s/it]
+Total Discriminator Cost: 9.055586814880371
+Total Wasserstein Distance: 0.9228007197380066
+Generator loss: -0.03435332328081131
+validation loss:-0.03871752321720123
+
+Validation loss computation: : 4it [00:00, 196.99it/s]
+epochs completed/total:  20%|██        | 4/20 [00:11<00:44,  2.77s/it]
+Total Discriminator Cost: 2.9279786823397485e+31
+Total Wasserstein Distance: -2.9279786823397485e+31
+Generator loss: -0.033720821142196655
+validation loss:-0.03990743309259415
+
+Validation loss computation: : 4it [00:00, 192.43it/s]
+epochs completed/total:  25%|██▌       | 5/20 [00:14<00:42,  2.83s/it]
+Total Discriminator Cost: 7.405856132507324
+Total Wasserstein Distance: 2.543687105178833
+Generator loss: -0.03602862358093262
+validation loss:-0.04632642865180969
+
+Validation loss computation: : 4it [00:00, 196.29it/s]
+epochs completed/total:  30%|███       | 6/20 [00:16<00:38,  2.76s/it]
+Total Discriminator Cost: 6.47108268737793
+Total Wasserstein Distance: 3.4537012577056885
+Generator loss: -0.04579059034585953
+validation loss:-0.06335970759391785
+
+Validation loss computation: : 4it [00:00, 186.09it/s]
+epochs completed/total:  35%|███▌      | 7/20 [00:19<00:37,  2.88s/it]
+Total Discriminator Cost: 4.597026824951172
+Total Wasserstein Distance: 5.295112609863281
+Generator loss: -0.0704292431473732
+validation loss:-0.09900104999542236
+
+Validation loss computation: : 4it [00:00, 191.27it/s]
+epochs completed/total:  40%|████      | 8/20 [00:22<00:33,  2.82s/it]
+Total Discriminator Cost: 2.5635666847229004
+Total Wasserstein Distance: 7.286125659942627
+Generator loss: -0.11608462035655975
+validation loss:-0.16246247291564941
+
+Validation loss computation: : 4it [00:00, 185.26it/s]
+epochs completed/total:  45%|████▌     | 9/20 [00:25<00:30,  2.80s/it]
+Total Discriminator Cost: 0.7231006622314453
+Total Wasserstein Distance: 9.072117805480957
+Generator loss: -0.19503255188465118
+validation loss:-0.25886771082878113
+
+Validation loss computation: : 4it [00:00, 189.82it/s]
+epochs completed/total:  50%|█████     | 10/20 [00:28<00:27,  2.78s/it]
+Total Discriminator Cost: -3.123488426208496
+Total Wasserstein Distance: 12.838179588317871
+Generator loss: -0.31512415409088135
+validation loss:-0.4002733826637268
+
+Validation loss computation: : 4it [00:00, 184.38it/s]
+epochs completed/total:  55%|█████▌    | 11/20 [00:30<00:24,  2.77s/it]
+Total Discriminator Cost: -6.748379707336426
+Total Wasserstein Distance: 16.388633728027344
+Generator loss: -0.49042755365371704
+validation loss:-0.6104390621185303
+
+Validation loss computation: : 4it [00:00, 197.63it/s]
+epochs completed/total:  60%|██████    | 12/20 [00:33<00:21,  2.74s/it]
+Total Discriminator Cost: -13.541411399841309
+Total Wasserstein Distance: 23.076370239257812
+Generator loss: -0.7414418458938599
+validation loss:-0.9057316780090332
+
+Validation loss computation: : 4it [00:00, 193.53it/s]
+epochs completed/total:  65%|██████▌   | 13/20 [00:36<00:19,  2.82s/it]
+Total Discriminator Cost: -16.835899353027344
+Total Wasserstein Distance: 26.24285316467285
+Generator loss: -1.1119258403778076
+validation loss:-1.3146275281906128
+
+Validation loss computation: : 4it [00:00, 192.68it/s]
+epochs completed/total:  70%|███████   | 14/20 [00:39<00:16,  2.79s/it]
+Total Discriminator Cost: -25.52495002746582
+Total Wasserstein Distance: 34.77836990356445
+Generator loss: -1.6373121738433838
+validation loss:-1.9344313144683838
+
+Validation loss computation: : 4it [00:00, 194.50it/s]
+epochs completed/total:  75%|███████▌  | 15/20 [00:41<00:13,  2.76s/it]
+Total Discriminator Cost: -33.297096252441406
+Total Wasserstein Distance: 42.33922576904297
+Generator loss: -2.3732926845550537
+validation loss:-2.770876169204712
+
+Validation loss computation: : 4it [00:00, 200.09it/s]
+epochs completed/total:  80%|████████  | 16/20 [00:44<00:10,  2.72s/it]
+Total Discriminator Cost: -43.87322998046875
+Total Wasserstein Distance: 52.73773193359375
+Generator loss: -3.3751277923583984
+validation loss:-3.8687028884887695
+
+Validation loss computation: : 4it [00:00, 190.00it/s]
+epochs completed/total:  85%|████████▌ | 17/20 [00:47<00:08,  2.77s/it]
+Total Discriminator Cost: -54.02639389038086
+Total Wasserstein Distance: 62.64544677734375
+Generator loss: -4.738668441772461
+validation loss:-5.419179916381836
+
+Validation loss computation: : 4it [00:00, 134.65it/s]
+epochs completed/total:  90%|█████████ | 18/20 [00:50<00:05,  2.79s/it]
+Total Discriminator Cost: -67.14642333984375
+Total Wasserstein Distance: 75.47003936767578
+Generator loss: -6.543281555175781
+validation loss:-7.43040132522583
+
+Validation loss computation: : 4it [00:00, 170.28it/s]
+epochs completed/total:  95%|█████████▌| 19/20 [00:53<00:02,  2.87s/it]
+Total Discriminator Cost: -85.22185516357422
+Total Wasserstein Distance: 93.2425765991211
+Generator loss: -8.875055313110352
+validation loss:-9.92044448852539
+
+Validation loss computation: : 4it [00:00, 194.78it/s]
+epochs completed/total: 100%|██████████| 20/20 [00:56<00:00,  2.81s/it]
+Total Discriminator Cost: -102.61677551269531
+Total Wasserstein Distance: 110.27897644042969
+Generator loss: -11.931915283203125
+validation loss:-13.432302474975586

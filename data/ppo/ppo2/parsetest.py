@@ -9,7 +9,7 @@ w = open("./testlogparse.csv", "w")
 writer = csv.writer(w)
 writer.writerow(["reward"])
 
-for i in range(3):
+for i in range(4):
     f = open("./testlog{num}.txt".format(num=i+1), "r")
     
     for line in f:

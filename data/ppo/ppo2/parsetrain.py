@@ -4,7 +4,7 @@ w = open("./logtrainparse.csv", "w")
 writer = csv.writer(w)
 writer.writerow(["ep_rew_mean", "loss"])
 
-for i in range(5):
+for i in range(4):
     f = open("./log{num}.txt".format(num=i+1), "r")
     erm = -1001
     loss = -1001
